@@ -25,7 +25,7 @@ async def foto(ctx):
             await attachment.save(f"img\{file_foto}")
     else:
         await ctx.send(f'вы не отправили фотографию')
-    
+    #главная функция проекта
 @bot.command()
 async def sport_foto(ctx):
     if ctx.message.attachments :
