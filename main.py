@@ -58,4 +58,4 @@ async def sport_foto(ctx):
     else:
         await ctx.send(f'вы не отправили фотографию')
     
-bot.run("MTA4Njk5MTE4NjE0NjkwMjA5OA.GUBYhE.9Z6uiFMKSUTt-JYqPfgk68RuRyMhTKBGgVN13g")
+bot.run("ТОКЕН")
